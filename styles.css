@@ -1,0 +1,205 @@
+/* discovery */
+
+*{
+
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #FFF3EA;
+	margin: 0;
+
+}
+
+h1 {
+	font-family: 'Baloo Tammudu 2', cursive;
+	font-size: 80px;
+	position: absolute;
+	left: 30px;
+	top: 1em;
+	color: #3F5E63;
+	margin-right: 30px;
+}
+
+h2 {
+	font-family: 'Baloo Tammudu 2', cursive;
+	font-size: 30px;
+	position: fixed;
+	left: 20px;
+	top: 10em;
+	color: #3F5E63;
+}
+
+p {
+	display: block;
+	font-size: 18px;
+	padding-left: 20px;
+}
+
+p1 {
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 20px;
+	position: fixed;
+	left: 80px;
+	top: 15em;
+	color: black;
+	margin-right: 80px;
+}
+
+
+
+p2 {
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 18px;
+	position: absolute;
+	left: 80px;
+	top: 15em;
+	color: black;
+	margin-right: 800px;
+}
+
+p3 {
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 18px;
+	position: absolute;
+	right: 80px;
+	top: 15em;
+	color: black;
+	margin-left: 800px;
+}
+
+
+p4 {
+	font-size: 85px;
+	color: #000;
+	opacity: 0%;
+}
+
+h3 {
+	font-family: 'Baloo Tammudu 2', cursive;
+	padding-left: 25px;
+	padding-top: 15px;
+	font-size: 30px;
+	color: #FFF3EA;
+	background-color: #3F5E63;
+	
+	
+}
+
+
+
+nav {
+	position: fixed;
+	top: 0px;
+	left: 0;
+	width: 100%;
+	padding: 2.5em;
+	z-index: 2;
+	display: flex;
+	justify-content: flex-end;
+	font-size: 15px;
+	font-family: 'Baloo Tammudu 2', cursive;
+	background-color: #FFF3EA;
+	}
+
+nav a {
+	color: black;
+	text-decoration: none;
+	transition: color 0.25s;
+
+}
+
+nav a:hover {
+	color: #3F5E63;
+}
+
+main {
+	padding-bottom: 4em;
+}
+
+footer {
+	position: fixed;
+	bottom: -40%;
+	left: 20px;
+	shape-margin: 10px;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+
+img {
+	position: fixed;
+	z-index: 3;
+	margin: 20px; 
+
+}
+
+.imglogo {
+	position: fixed;
+	z-index: 3;
+	margin: 10px; 
+
+}
+
+.img1 {
+	margin: 0px;
+	z-index: 0;
+	position: absolute;
+	display: block;
+	width: 1620px;
+	height: 1373px;
+	left: 25px;
+	right: 0px;
+
+}
+
+.img2 {
+	margin: 0px;
+	z-index: 0;
+	position: absolute;
+	display: block;
+	width: 1620px;
+	height: 5500px;
+	left: 25px;
+	right: 0px;
+
+}
+
+.img3 {
+	margin: 0px;
+	z-index: 0;
+	position: absolute;
+	display: block;
+	width: 1620px;
+	height: 2730px;
+	left: 25px;
+	right: 0px;
+
+}
+
+.img5 {
+	margin: 0px;
+	z-index: 0;
+	position: absolute;
+	display: block;
+	width: 1920px;
+	height: 5508px;
+	left: 25px;
+	right: 0px;
+
+
+}
+
+
+.center {
+	position: absolute;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+
+}
+
+
+
+
+
